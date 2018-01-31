@@ -104,7 +104,61 @@ try {
 		break;
 			
 		case '02':
-			//$mail->addBCC('my-email.com');
+			//$mail->addBCC('jgomez@karismamexico.com');
+            //$mail->addBCC('avillagrana@azulsensatori.com');
+            //$mail->addBCC('idieguez@azulsensatori.com');
+            //$mail->addBCC('mgurrola@azulsensatori.com');
+		break;
+            
+        case '03':
+			//$mail->addBCC('asistdireccion.yucatan@princess-hotels.com');
+            //$mail->addBCC('asistrrpp.yucatan@princess-hotels.com');
+            //$mail->addBCC('chef.yucatan@princess-hotels.com');
+            //$mail->addBCC('supoperativo.yucatan@princess-hotels.com');
+		break;
+            
+        case '04':
+			//$mail->addBCC('urs@mahekalplaya.com');
+            //$mail->addBCC('gerenteservicio@mahekalplaya.com');
+            //$mail->addBCC('asistenteayb@mahekalplaya.com');
+		break;
+            
+        case '05':
+			//$mail->addBCC('geral@ohlalabygeorge.com');
+		break;
+            
+        case '06':
+			//$mail->addBCC('xavier@axiote.rest');
+		break;
+            
+        case '07':
+			//$mail->addBCC('manuelfipa@gmail.com');
+		break;
+            
+        case '08':
+			//$mail->addBCC('miguelarcep@gmail.com');
+            //$mail->addBCC('fabian_sushi@live.com.mx');
+            
+		break;
+            
+        case '09':
+			//$mail->addBCC('giovanni@comocomo.mx');
+		break;
+        
+        case '10':
+			//$mail->addBCC('my@email.com');
+		break;
+            
+        case '11':
+			//$mail->addBCC('rpmadretierra@hotmail.com');
+		break;
+            
+        case '12':
+			//$mail->addBCC('thaiplayadelcarmen@gmail.com');
+		break;
+        
+        case '13':
+			//$mail->addBCC('info@casabananatulum.com');
 		break;
 	}
 	
