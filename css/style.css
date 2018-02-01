@@ -12235,7 +12235,7 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-fullwidth .rd-navbar-nav > li > .rd-navbar-dropdown {
   position: absolute;
   left: -30px;
-  width: 240px;
+  width: 265px;
   background: #fff;
   z-index: 5;
 }
