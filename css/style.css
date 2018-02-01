@@ -12350,7 +12350,7 @@ html:not(.lt-ie10) .not-animated {
 
 .rd-navbar-static .rd-navbar-dropdown,
 .rd-navbar-fullwidth .rd-navbar-dropdown {
-  width: 240px;
+  width: 255px;
   background: #fff;
   padding: 15px 20px 15px;
   transform: translateY(30px);
