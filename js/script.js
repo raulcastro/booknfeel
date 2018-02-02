@@ -1380,6 +1380,7 @@ $document.ready(function () {
           if (result === "MF000") {
             if (output.hasClass("snackbars")) {
               output.html('<p><span class="icon text-middle mdi mdi-check icon-xxs"></span><span>' + msg[result] + '</span></p>');
+                $('.formMessage').show();
             } else {
               output.addClass("active success");
             }

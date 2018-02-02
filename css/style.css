@@ -29123,4 +29123,6 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
 /*# sourceMappingURL=style.css.map */
 
-	
+    .formMessage {
+        display: none;
+    }	
