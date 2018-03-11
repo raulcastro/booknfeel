@@ -1,4 +1,5 @@
 <?php
+//var_dump($_POST);
 sleep(3);
 
 $recipients = 'raul@wheretogo.com.mx';
@@ -25,6 +26,9 @@ try {
         switch ($_POST['form-type']){
             case 'contact':
                 $subject = 'New message from Book N Feel';
+                break;
+            case 'booker':
+                $subject = 'A booker is interested in Book N Feel';
                 break;
             case 'subscribe':
                 $subject = 'Subscription request from Book N Feel';
