@@ -96,6 +96,7 @@ try {
     $mail->CharSet = 'utf-8';
     $mail->addBCC('raul@wheretogo.com.mx');
     $mail->addBCC('oliver@wheretogo.com.mx');
+    $mail->addBCC('dania@booknfeel.com');
 	
 	switch ($_POST['message'])
 	{
